@@ -29,5 +29,5 @@ if (dolphinsAverageScore > koalasAverageScore && dolphinsAverageScore >= 100) {
 ) {
   console.log("Match draw");
 } else {
-  console.log("No result");
+  console.log("No results");
 }
